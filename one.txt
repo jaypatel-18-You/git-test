@@ -1,1 +1,2 @@
-thiis is frits file
+thiis is frits file 
+add filegit add .
